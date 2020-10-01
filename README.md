@@ -32,7 +32,7 @@ Make sure `npm` and `docsite` are configured in the environmet configuration of 
 Then you are all set to run and build the website. Follow the build instruction above for the details.
 
 
-## How To Write Documents
+## How To Write a Superbu Documents
 
 ### Add a new doc
 
